@@ -103,8 +103,9 @@ body{
     background: #d1d1d1;
     
 }
-.dashboard:active{
+.dashboard:focus{
     background-color: #1b7557;
+    color:#fff;
 }
 button{
     cursor:pointer;
