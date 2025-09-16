@@ -105,7 +105,7 @@ body{
 }
 .dashboard:focus{
     background: #1b7557;
-    color:#fff;
+    color: #fff;
 }
 button{
     cursor:pointer;
@@ -320,4 +320,5 @@ button{
     margin-top: 120px ;
         margin-left: -133px;
 }
+
 
