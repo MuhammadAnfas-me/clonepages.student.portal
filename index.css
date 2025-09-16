@@ -104,7 +104,7 @@ body{
     
 }
 .dashboard:focus{
-    background-color: #1b7557;
+    background: #1b7557;
     color:#fff;
 }
 button{
@@ -320,3 +320,4 @@ button{
     margin-top: 120px ;
         margin-left: -133px;
 }
+
